@@ -86,7 +86,7 @@ const SignupScreen: React.FC<SignupScreenProps> = ({ navigation }) => {
       <View style={styles.content}>
         <View style={styles.logoContainer}>
           <Text style={styles.logo}>📚</Text>
-          <Text style={styles.title}>Library App</Text>
+          <Text style={styles.title}>Read&Lend</Text>
           <Text style={styles.subtitle}>Create your account</Text>
         </View>
 

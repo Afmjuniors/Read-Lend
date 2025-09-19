@@ -62,7 +62,7 @@ const LoginScreen: React.FC<LoginScreenProps> = ({ navigation }) => {
           {/* Logo/Title */}
           <View style={styles.logoContainer}>
             <Text style={styles.logo}>📚</Text>
-            <Text style={styles.title}>Library App</Text>
+            <Text style={styles.title}>Read&Lend</Text>
             <Text style={styles.subtitle}>Sign in to your account</Text>
           </View>
 
